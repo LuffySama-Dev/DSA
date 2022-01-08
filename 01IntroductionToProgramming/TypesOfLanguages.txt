@@ -1,0 +1,28 @@
+Types of Languages:-
+
+A] Procedural Language:
+	1] Specific Series of well structured procedures.
+	2] Everything viz., statements, functions and commands are in systematic order.
+
+B] Functional Language:
+	1] These have constant functions for each task.
+	2] Follow First class functions.
+
+C] Object Oriented Language:
+	1] It has Classes.
+	2] Obejct are instances of the classes.
+	3] Objects interact with one another.
+
+D] Static Language:
+	1] Perform type checks at compile time.
+	2] Errors will be shown at compile time.
+	3] Declare datatype before you use it.
+	4] More control
+	
+E] Dynamic Language:
+	1] Perform type checks at the run time.
+	2] Errors will  not be detected until you run the program.
+	3] No need to declare the datatype of variables.
+	4] Can save time to code but errors will only be seen at run time.
+	
+	
